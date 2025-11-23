@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Gaming Zone</title>
+    <title>Daman Game: Online Earning & Color Prediction Zone</title>
+
+    <meta name="description" content="Daman Game का ऑफिशियल होमपेज। Fast Win, Color Match और Lucky Spin खेलकर घर बैठे ऑनलाइन अर्निंग करें। 9YFjV382516 कोड से रजिस्टर करें!">
+    <meta name="keywords" content="Daman Game, Color Prediction, Online Earning, Fast Win Game, Money Earning App, Daman Club, Color Match, emmykhan9211-hash">
     <style>
         body {
             margin: 0;
@@ -101,6 +104,5 @@
             <p>Predict the right card & score points.</p>
         </div>
     </div>
-
-    </body>
+</body>
 </html>
