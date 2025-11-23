@@ -75,7 +75,7 @@
     <div class="banner">
         Welcome to the Official Gaming Homepage  
         <br>
-        <a class="btn" href="#" id="regLink">Register Now</a>
+        <a class="btn" href="https://damanclub.bar/#/register?invitationCode=9YFjV382516" id="regLink">Register Now</a>
     </div>
 
     <div class="games-section">
@@ -102,10 +102,5 @@
         </div>
     </div>
 
-    <script>
-        // Aap baad me yaha apna link change kar sakte ho
-        document.getElementById("regLink").href = "#";
-    </script>
-
-</body>
+    </body>
 </html>
