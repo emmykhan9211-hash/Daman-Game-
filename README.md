@@ -1,7 +1,3 @@
-<meta name="google-site-verification" content="ZLUe7KYnjOvVsSDzcS0Hq1ynVRhnJI8jsN0Txy-WMpg" />
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +8,7 @@
     <meta name="description" content="Daman Game का ऑफिशियल होमपेज। Fast Win, Color Match और Lucky Spin खेलकर घर बैठे ऑनलाइन अर्निंग करें। 9YFjV382516 कोड से रजिस्टर करें!">
     <meta name="keywords" content="Daman Game, Color Prediction, Online Earning, Fast Win Game, Money Earning App, Daman Club, Color Match, emmykhan9211-hash">
     
-    <meta name="google-site-verification" content="ZLUe7KYnjOvVsSDzcS0Hq1ynVRhnJI8jsN0Txy-WMpg" />
+    <meta name="google-site-verification" content="1XOo5K3XTMEvmkWRm-Nzh57TwzQOTY0Q9fVUO2A3psY" />
 
     <style>
         body {
