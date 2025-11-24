@@ -1,14 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daman Game: Online Earning & Color Prediction Zone</title>
 
+    <!-- SEO -->
     <meta name="description" content="Daman Game का ऑफिशियल होमपेज। Fast Win, Color Match और Lucky Spin खेलकर घर बैठे ऑनलाइन अर्निंग करें। 9YFjV382516 कोड से रजिस्टर करें!">
     <meta name="keywords" content="Daman Game, Color Prediction, Online Earning, Fast Win Game, Money Earning App, Daman Club, Color Match, emmykhan9211-hash">
-    
+
+    <!-- Google Search Console Verification -->
     <meta name="google-site-verification" content="1XOo5K3XTMEvmkWRm-Nzh57TwzQOTY0Q9fVUO2A3psY" />
+
+    <title>Daman Game - Official</title>
 
     <style>
         body {
@@ -74,38 +77,36 @@
         }
     </style>
 </head>
+
 <body>
 
-    <header>Online Gaming Zone</header>
+    <header>Daman Game - Official</header>
 
     <div class="banner">
-        Welcome to the Official Gaming Homepage  
+        Welcome to Daman Game  
+        <br> घर बैठे अर्निंग शुरू करें!
         <br>
-        <a class="btn" href="https://damanclub.bar/#/register?invitationCode=9YFjV382516" id="regLink">Register Now</a>
+        <a class="btn" href="https://damanclub.bar/#/register?invitationCode=9YFjV382516">👉 Register Now</a>
     </div>
 
     <div class="games-section">
         <div class="games-title">Popular Games</div>
 
         <div class="game-card">
-            <h3>⚡ Fast Win</h3>
-            <p>Quick & exciting number-based mini game.</p>
+            <h3>Fast Win</h3>
+            <p>तेजी से जीतें और तुरंत पैसे कमाएँ!</p>
         </div>
 
         <div class="game-card">
-            <h3>🎨 Color Match</h3>
-            <p>Guess the correct color & win.</p>
+            <h3>Color Match</h3>
+            <p>रंग मैच करें और हर 1 मिनट में जीतें।</p>
         </div>
 
         <div class="game-card">
-            <h3>🎲 Lucky Spin</h3>
-            <p>Spin the wheel and test your luck.</p>
-        </div>
-
-        <div class="game-card">
-            <h3>🃏 Card Flip</h3>
-            <p>Predict the right card & score points.</p>
+            <h3>Lucky Spin</h3>
+            <p>हर स्पिन पर जीतने का मौका!</p>
         </div>
     </div>
+
 </body>
 </html>
